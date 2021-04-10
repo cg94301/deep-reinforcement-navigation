@@ -86,3 +86,8 @@ Best average over 100 episode evaluation with filter was achieved at 17.75. Here
 
 
 ![Evaluation Scores](images/navigation_m02.png "Evaluation Scores")
+
+
+### Improvements
+
+To further improve on this solution the hyper-parameter space could be explored further. 
